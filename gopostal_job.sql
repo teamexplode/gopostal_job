@@ -9,7 +9,7 @@ INSERT INTO `jobs` (`name`, `label`) VALUES
 --
 
 INSERT INTO `job_grades` (`job_name`, `grade`, `name`, `label`, `salary`, `skin_male`, `skin_female`) VALUES
-('gopostal', 0, 'employee', 'Intérimaire', 200, '', '');
+('gopostal', 0, 'employee', 'Intérimaire', 2800, '', '');
 
 --
 -- Contenu de la table `items`
